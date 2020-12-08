@@ -1,6 +1,6 @@
-# password-manager python project
+# password-manager project
 
-create secure passwords
+Python project that generates secure passwords.
 
 
 ![](screenshot.png)
