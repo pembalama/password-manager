@@ -3,5 +3,5 @@
 Python project that generates secure passwords.
 
 
-![](screenshot.png)
+![](screen shot.png)
 
